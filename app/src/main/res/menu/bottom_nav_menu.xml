@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_section"
+        android:icon="@drawable/ic_home_black"
+        android:title="@string/home_section_title" />
+
+    <item
+        android:id="@+id/sports_section"
+        android:icon="@drawable/ic_sports_black"
+        android:title="@string/sports_section_title" />
+
+    <item
+        android:id="@+id/entmt_section"
+        android:icon="@drawable/ic_movie_black"
+        android:title="@string/entmt_section_title" />
+
+    <item
+        android:id="@+id/tech_section"
+        android:icon="@drawable/ic_phone_black"
+        android:title="@string/tech_section_title" />
+</menu>
