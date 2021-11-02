@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/git/NewsApp/app/src/main/res/drawable/ic_home_black.xml" value="0.3594871794871795" />
+        <entry key="..\:/git/NewsApp/app/src/main/res/drawable/ic_phone_black.xml" value="0.34629629629629627" />
         <entry key="..\:/git/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.26992753623188404" />
+        <entry key="..\:/git/NewsApp/app/src/main/res/layout/feed_item_view.xml" value="0.3489583333333333" />
         <entry key="..\:/git/NewsApp/app/src/main/res/layout/fragment_entertainment_section.xml" value="0.3489583333333333" />
         <entry key="..\:/git/NewsApp/app/src/main/res/layout/fragment_home.xml" value="0.33489583333333334" />
         <entry key="..\:/git/NewsApp/app/src/main/res/layout/fragment_home_section.xml" value="0.3489583333333333" />
